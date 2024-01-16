@@ -1,2 +1,2 @@
 # EclipsePhoton
-Download Eclipse Photon~ 
+Download Eclipse Photon from the dropbox link~ 
